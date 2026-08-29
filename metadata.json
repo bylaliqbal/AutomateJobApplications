@@ -1,0 +1,6 @@
+{
+  "name": "Job Discovery & Grounded CV Tailoring Platform",
+  "description": "Grounded CV-tailoring and job discovery platform with factual truth enforcement, 0-100 explainable matching, provider adapters, and export bundles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
